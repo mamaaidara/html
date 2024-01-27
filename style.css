@@ -1,0 +1,28 @@
+.accueil {
+    color: brown;
+    text-align:center ;
+    font-weight: bolder;
+
+}
+nav {
+    background: gray ;
+
+}
+nav ul {
+    display: flex;
+
+} 
+nav ul li {
+margin: 50px;
+list-style: none ;
+
+}
+nav ul li a {
+text-decoration: none;
+}
+
+#para{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(85, 53, 166);
+}
+
